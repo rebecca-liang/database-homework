@@ -1,0 +1,140 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="bookID" type="xs:string" minOccurs="0" />
+                <xs:element name="bookName" type="xs:string" minOccurs="0" />
+                <xs:element name="bookIndex" type="xs:string" minOccurs="0" />
+                <xs:element name="bookTypeID" type="xs:int" minOccurs="0" />
+                <xs:element name="author" type="xs:string" minOccurs="0" />
+                <xs:element name="publish" type="xs:string" minOccurs="0" />
+                <xs:element name="price" type="xs:decimal" minOccurs="0" />
+                <xs:element name="publishDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="abstract" type="xs:string" minOccurs="0" />
+                <xs:element name="keyword" type="xs:string" minOccurs="0" />
+                <xs:element name="status" type="xs:int" minOccurs="0" />
+                <xs:element name="registeDate" type="xs:dateTime" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <bookID>0-13-001660-8</bookID>
+    <bookName>爱拼才会赢</bookName>
+    <bookIndex>0001</bookIndex>
+    <bookTypeID>1</bookTypeID>
+    <author>挪亚</author>
+    <publish>中国电力出版社</publish>
+    <price>26.0000</price>
+    <publishDate>2009-04-01T00:00:00+08:00</publishDate>
+    <abstract>啦啦爱</abstract>
+    <keyword>激励  爱拼才会赢</keyword>
+    <status>0</status>
+    <registeDate>2008-12-25T20:37:21.547+08:00</registeDate>
+  </Table>
+  <Table>
+    <bookID>0-471-00084-1</bookID>
+    <bookName>C#入门经典(4版)</bookName>
+    <bookIndex>0002</bookIndex>
+    <bookTypeID>2</bookTypeID>
+    <author>yy</author>
+    <publish>电力</publish>
+    <price>35.0000</price>
+    <publishDate>2004-04-05T00:00:00+08:00</publishDate>
+    <abstract>这是一本成就无数C#程序员的经典名著，厚而不“重”，可帮助您轻松掌握C#的各种编程知识，为您的职业生涯打下坚实的基础)本书自第1版出版以来，全球销量已经达数万册，在中国也有近8万册的销量</abstract>
+    <keyword>C#   .NET  编程语言</keyword>
+    <status>1</status>
+  </Table>
+  <Table>
+    <bookID>2-13-001660-2</bookID>
+    <bookName>The Art of Computer Programming</bookName>
+    <bookIndex>0010</bookIndex>
+    <bookTypeID>2</bookTypeID>
+    <author>Donald.E.Knuth</author>
+    <publish>Prentice Hall</publish>
+    <price>188.0000</price>
+    <publishDate>2002-04-01T00:00:00+08:00</publishDate>
+    <abstract>这部书被誉为20世纪最重要的20部著作之一,与Einstein的&lt;&lt;相对论&gt;&gt;并列,是计算机科学领域的权威著作.</abstract>
+    <keyword>计算机 经典著作</keyword>
+    <status>1</status>
+    <registeDate>2009-05-23T23:45:04.313+08:00</registeDate>
+  </Table>
+  <Table>
+    <bookID>4-80970-182-4</bookID>
+    <bookName>Web信息架构(设计大型网站第3版)</bookName>
+    <bookIndex>0003</bookIndex>
+    <bookTypeID>2</bookTypeID>
+    <author>（美）莫维里，（美）罗森费尔德 陈建勋</author>
+    <publish>电子工业</publish>
+    <price>35.0000</price>
+    <publishDate>1999-08-02T00:00:00+08:00</publishDate>
+    <abstract>信息架构概论(适用于入门者和有实践经验的专家)。</abstract>
+    <keyword>C#  asp.net</keyword>
+    <status>1</status>
+    <registeDate>2008-06-05T00:00:00+08:00</registeDate>
+  </Table>
+  <Table>
+    <bookID>6-81006-121-3</bookID>
+    <bookName>C++ Primer 3rd</bookName>
+    <bookIndex>0012</bookIndex>
+    <bookTypeID>3</bookTypeID>
+    <author>Stanley B.Lippman</author>
+    <publish>Prentice Hall</publish>
+    <price>140.0000</price>
+    <publishDate>2000-01-01T00:00:00+08:00</publishDate>
+    <abstract>这本书的名字多少有点让人误解.尽管作者声称这本书是为C++新手而写,但无论是它的厚度还是讲解的深度都暴露了似乎并非如此.也许说它是一本"从入门到精通"的C++教程会更合适一些.我个人认为它并不适合完全不懂C++的初学者</abstract>
+    <keyword>C++ 权威 教材</keyword>
+    <status>1</status>
+    <registeDate>2009-05-24T00:29:31.173+08:00</registeDate>
+  </Table>
+  <Table>
+    <bookID>7-111-14518-6</bookID>
+    <bookName>UML和模式应用</bookName>
+    <bookIndex>机械工业出版社</bookIndex>
+    <bookTypeID>1</bookTypeID>
+    <author>(美)拉尔曼(Craig Larman)著；方梁等译</author>
+    <publish>机械工业出版社</publish>
+    <price>59.0000</price>
+    <publishDate>2005-01-01T00:00:00+08:00</publishDate>
+    <abstract>本书内容包括需求和用例：识别和记录需求；领域对象建模：理解领域中的相关对象，它们的属性及其关系；架构：创建灵活、健壮和可维护的分层架构等。</abstract>
+    <keyword>UML和模式应用</keyword>
+    <status>1</status>
+    <registeDate>2009-01-07T09:01:34.627+08:00</registeDate>
+  </Table>
+  <Table>
+    <bookID>7-118-01984-4</bookID>
+    <bookName>软件工程基础(第2版影印版国外经典计算机科学教材)</bookName>
+    <bookIndex>0008</bookIndex>
+    <bookTypeID>1</bookTypeID>
+    <author>(意)盖伊、查耶、曼德若利</author>
+    <publish>中国电力出版社</publish>
+    <price>88.0000</price>
+    <publishDate>2002-07-30T00:00:00+08:00</publishDate>
+    <abstract>软件工程基础(第2版影印版国外经典计算机科学教材)》：本书通过严格的形式化方法和非形式化方法阐述了软件工程原则和方法的重要性，有选择地介绍了软件工程基础；强调并确定了适用于整个软件生命期的基本原则，全面而深入地介绍了这些基本原则在软件设计、规范、验证、软件生产过程和管理活动中的运用；书中提供了大量的练习和案例分析，既有助于读者理解书中介绍的理论知识，又可以让读者亲身体验如何应对复杂的实现问题</abstract>
+    <keyword>软件工程  经典计算机科学教材</keyword>
+    <status>1</status>
+    <registeDate>2009-05-22T22:11:01.627+08:00</registeDate>
+  </Table>
+  <Table>
+    <bookID>7-81006-111-3</bookID>
+    <bookName>Dreamweaver＋Flash＋Photosh网页制作</bookName>
+    <bookIndex>0006</bookIndex>
+    <bookTypeID>2</bookTypeID>
+    <author>刘定林 孙海刚　等著</author>
+    <publish>西南交大出版社</publish>
+    <price>32.0000</price>
+    <publishDate>2003-01-01T00:00:00+08:00</publishDate>
+    <abstract>本书主要讲述用Dreamweaver 8、Flash 8及Photoshop CS2进行网页设计制作。主要内容包括网页是怎样制作的、网页制作基础、创建网页基本对象、用表格布局页面、用框架布局页面、使用层和行为、创建表单、Flash 8动画制作基础、用Flash绘制动画对象</abstract>
+    <keyword>Dreamweaver  Flash  Photoshop</keyword>
+    <status>1</status>
+    <registeDate>2009-05-22T23:22:10.517+08:00</registeDate>
+  </Table>
+</NewDataSet>

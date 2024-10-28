@@ -1,0 +1,56 @@
+*{
+margin:0px;
+padding:0px;
+}
+
+body,html{
+background:url(../images/bg.jpg) no-repeat top center;
+font-size:12px;
+font-family:Arial;
+}
+
+
+
+A:link, A:active
+{
+	color: #000;
+	text-decoration: none;
+        font-size: 13px;
+        font-family:ËÎÌו;
+     
+}
+A:visited
+{  
+	color: #000;
+	text-decoration: none;
+        font-size: 13px;
+         font-family:ËÎÌו;
+}
+A:hover
+{
+	color: #FF0000;
+	text-decoration:underline;
+        font-size: 13px;
+         font-family:ËÎÌו;
+         
+}
+
+td
+{
+	height:25px;
+	}
+	
+hr
+{
+	border:1px solid #ccc;
+	height:1px;
+	}
+	
+h4
+{
+	padding-left:20px;
+	padding-top:2px;	
+	font-size:14px;
+	font-weight:bold;
+	}
+	

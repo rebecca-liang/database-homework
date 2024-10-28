@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  
+<html xmlns="http://www.w3.org/1999/xhtml">  
+    <head>  
+        <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />  
+    <title>xml data island</title>  
+</head>  
+  
+<body>  
+   
+       
+       
+    <xml id="XMLData" src="test.xml"></xml>  <!-- 唯一 id -->  
+       
+     <!-- 请不要忘了符号 '#' -->  
+    〈table id="tblbooks" datasrc="#XMLData" border=1 datapagesize=2 width=“100%“〉
+       〈thead〉
+        〈th style=“font-style: blod“〉书名〈/th〉
+        
+        〈th style=“font-style: blod“〉书号〈/th〉
+        〈th style=“font-style: blod“〉作者〈/th〉
+        
+       〈/thead〉
+       〈tr〉
+        〈td〉〈span datafld=“bookName“〉〈/span〉〈/td〉
+        〈td〉〈span datafld=“bookIndex“〉〈/span〉〈/td〉
+        〈td〉〈span datafld=“author“〉〈/span〉〈/td〉
+        
+       〈/tr〉
+      〈/table〉
+
+       
+</body>  
+</html>  

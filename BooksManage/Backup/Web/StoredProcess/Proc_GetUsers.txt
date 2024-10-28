@@ -1,0 +1,6 @@
+CREATE PROCEDURE Proc_GetUsers
+AS
+   SELECT * FROM Users
+
+go
+ exec Proc_GetUsers

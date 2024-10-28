@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BooksManage">
+</Property><Property Name="解决方案文件" Value="C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\BooksManage.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\BooksManage.suo">
+</Property><Property Name="Date" Value="2010年12月1日">
+</Property><Property Name="Time" Value="23:16">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BooksManage.sln" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\BooksManage.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BooksManage.suo" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\BooksManage.suo">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Web.csproj" Description="项目文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Web.csproj">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Web.csproj.user" Description="项目用户文件成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Web.csproj.user">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Common\controls\ModifyPassword.ascx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Common\controls\ModifyPassword.ascx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Common\controls\ModifyPassword.ascx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Common\controls\ModifyPassword.ascx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Common\controls\userDetails.ascx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Common\controls\userDetails.ascx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Common\controls\userDetails.ascx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Common\controls\userDetails.ascx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\login.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\login.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\login.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\login.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\BorrowHistory.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\BorrowHistory.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\BorrowHistory.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\BorrowHistory.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\BorrowInfo.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\BorrowInfo.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\BorrowInfo.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\BorrowInfo.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\ModifyPassword.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\ModifyPassword.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\ModifyPassword.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\ModifyPassword.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\ReaderDefault.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\ReaderDefault.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\ReaderDefault.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\ReaderDefault.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\ReaderMasterPage.Master.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\ReaderMasterPage.Master.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\ReaderMasterPage.Master.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\ReaderMasterPage.Master.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\Reservation.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\Reservation.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\Reservation.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\Reservation.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\SearchBook.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\SearchBook.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\SearchBook.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\SearchBook.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\updateInfo.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\updateInfo.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\updateInfo.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\updateInfo.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\AddBook.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\AddBook.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\AddBook.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\AddBook.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\AddUser.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\AddUser.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\AddUser.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\AddUser.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\AdminInfo.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\AdminInfo.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\AdminInfo.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\AdminInfo.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\AdminMain.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\AdminMain.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\AdminMain.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\AdminMain.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\BookList.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\BookList.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\BookList.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\BookList.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\ModifyBook.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\ModifyBook.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\ModifyBook.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\ModifyBook.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\ModifyPassword.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\ModifyPassword.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\ModifyPassword.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\ModifyPassword.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\sysAdminMasterPage.Master.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\sysAdminMasterPage.Master.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\sysAdminMasterPage.Master.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\sysAdminMasterPage.Master.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\UserList.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\UserList.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\UserList.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\UserList.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\QueryBorrowHistory.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\QueryBorrowHistory.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\QueryBorrowHistory.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\QueryBorrowHistory.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\QueryBorrowInfo.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\QueryBorrowInfo.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\QueryBorrowInfo.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\QueryBorrowInfo.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\LendBook.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\LendBook.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\LendBook.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\LendBook.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\ModifyPassword.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\ModifyPassword.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\ModifyPassword.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\ModifyPassword.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\OptInfo.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\OptInfo.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\OptInfo.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\OptInfo.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\ReturnBook.aspx.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\ReturnBook.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\ReturnBook.aspx.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\ReturnBook.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\OperatorMasterPage.Master.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\OperatorMasterPage.Master.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\OperatorMasterPage.Master.designer.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\OperatorMasterPage.Master.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Tables.xls" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Tables.xls">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\OperatorMasterPage.Master" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\OperatorMasterPage.Master">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\sysAdminMasterPage.Master" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\sysAdminMasterPage.Master">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\ReaderMasterPage.Master" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\ReaderMasterPage.Master">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Web.Config" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Web.Config">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Common\controls\ModifyPassword.ascx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Common\controls\ModifyPassword.ascx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Common\controls\userDetails.ascx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Common\controls\userDetails.ascx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\CSS\CSS.css" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\CSS\CSS.css">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\ADD.GIF" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Images\ADD.GIF">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\back.JPG" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Images\back.JPG">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\BackGround_Top0.gif" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Images\BackGround_Top0.gif">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\Borrow.GIF" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Images\Borrow.GIF">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\left_bg_02.jpg" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Images\left_bg_02.jpg">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\line.gif" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Images\line.gif">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\lineS.jpg" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Images\lineS.jpg">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\Login.GIF" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Images\Login.GIF">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\logo.jpg" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Images\logo.jpg">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\movetool1.gif" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Images\movetool1.gif">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\movetoolright1.gif" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Images\movetoolright1.gif">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\RESET.GIF" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Images\RESET.GIF">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\RETURN.GIF" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Images\RETURN.GIF">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\ReturnBook.GIF" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Images\ReturnBook.GIF">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\Update.GIF" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Images\Update.GIF">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\login.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\login.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\BorrowHistory.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\BorrowHistory.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\BorrowInfo.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\BorrowInfo.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\ModifyPassword.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\ModifyPassword.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\ReaderDefault.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\ReaderDefault.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\Reservation.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\Reservation.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\SearchBook.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\SearchBook.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Reader\updateInfo.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\Reader\updateInfo.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\StoredProcess\Proc_GetCurrentBorrow.txt" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\StoredProcess\Proc_GetCurrentBorrow.txt">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\StoredProcess\Proc_GetUsers.txt" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\StoredProcess\Proc_GetUsers.txt">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\StoredProcess\Proc_SearchBook.txt" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\StoredProcess\Proc_SearchBook.txt">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\AddBook.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\AddBook.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\AddUser.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\AddUser.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\AdminInfo.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\AdminInfo.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\AdminMain.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\AdminMain.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\BookList.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\BookList.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\ModifyBook.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\ModifyBook.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\ModifyPassword.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\ModifyPassword.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\text.htm" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\text.htm">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysAdmin\UserList.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysAdmin\UserList.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\QueryBorrowHistory.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\QueryBorrowHistory.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\QueryBorrowInfo.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\QueryBorrowInfo.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\LendBook.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\LendBook.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\ModifyPassword.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\ModifyPassword.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\OptInfo.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\OptInfo.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\SysOperator\ReturnBook.aspx" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Web\SysOperator\ReturnBook.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Web.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Web" Source="Web\Web.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BusinessLogicLayer" Source="BusinessLogicLayer\BusinessLogicLayer.csproj" Description="项目文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\BusinessLogicLayer\BusinessLogicLayer.csproj">
+</Event><Event ErrorLevel="0" Project="BusinessLogicLayer" Source="BusinessLogicLayer\Book.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\BusinessLogicLayer\Book.cs">
+</Event><Event ErrorLevel="0" Project="BusinessLogicLayer" Source="BusinessLogicLayer\BookBusiness.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\BusinessLogicLayer\BookBusiness.cs">
+</Event><Event ErrorLevel="0" Project="BusinessLogicLayer" Source="BusinessLogicLayer\BookType.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\BusinessLogicLayer\BookType.cs">
+</Event><Event ErrorLevel="0" Project="BusinessLogicLayer" Source="BusinessLogicLayer\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\BusinessLogicLayer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BusinessLogicLayer" Source="BusinessLogicLayer\User.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\BusinessLogicLayer\User.cs">
+</Event><Event ErrorLevel="0" Project="BusinessLogicLayer" Source="BusinessLogicLayer\BusinessLogicLayer.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="BusinessLogicLayer" Source="BusinessLogicLayer\BusinessLogicLayer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataAccessLayer" Source="DataAccessLayer\DataAccessLayer.csproj" Description="项目文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\DataAccessLayer\DataAccessLayer.csproj">
+</Event><Event ErrorLevel="0" Project="DataAccessLayer" Source="DataAccessLayer\Book.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\DataAccessLayer\Book.cs">
+</Event><Event ErrorLevel="0" Project="DataAccessLayer" Source="DataAccessLayer\BookBusiness.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\DataAccessLayer\BookBusiness.cs">
+</Event><Event ErrorLevel="0" Project="DataAccessLayer" Source="DataAccessLayer\BookType.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\DataAccessLayer\BookType.cs">
+</Event><Event ErrorLevel="0" Project="DataAccessLayer" Source="DataAccessLayer\GetSafeData.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\DataAccessLayer\GetSafeData.cs">
+</Event><Event ErrorLevel="0" Project="DataAccessLayer" Source="DataAccessLayer\DataBase.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\DataAccessLayer\DataBase.cs">
+</Event><Event ErrorLevel="0" Project="DataAccessLayer" Source="DataAccessLayer\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\DataAccessLayer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataAccessLayer" Source="DataAccessLayer\User.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\DataAccessLayer\User.cs">
+</Event><Event ErrorLevel="0" Project="DataAccessLayer" Source="DataAccessLayer\DataAccessLayer.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DataAccessLayer" Source="DataAccessLayer\DataAccessLayer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="项目文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Model\Model.csproj">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\BookInfo.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Model\BookInfo.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\BookTypeInfo.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Model\BookTypeInfo.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Model\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\UserInfo.cs" Description="文件已成功备份为 C:\Users\User\Desktop\分布式数据库作业\sourceCode\BooksManage\Backup\Model\UserInfo.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Model" Source="Model\Model.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BooksManage.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="BooksManage.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Web.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="BusinessLogicLayer" Source="BusinessLogicLayer\BusinessLogicLayer.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DataAccessLayer" Source="DataAccessLayer\DataAccessLayer.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

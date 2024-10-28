@@ -1,0 +1,15 @@
+CREATE PROCEDURE [dbo].[Proc_GetCurrentBorrow]
+	@userID VARCHAR(50)
+AS SELECT 	[dbo].[borrowRec].[readerID],		 
+		[dbo].[borrowRec].[beginDate], 
+	
+		
+		[dbo].[book].[bookName],
+		[dbo].[book].[author], 
+		[dbo].[book].[publish],
+		[dbo].[book].[publishDate]
+FROM 	[dbo].[borrowRec], 
+		[dbo].[book]
+WHERE 	book.bookID=borrowRec.bookID 
+		AND borrowStatus='True'  
+		AND readerID=@userID
